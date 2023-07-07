@@ -5,8 +5,7 @@ A fully functional Tic Tac Toe game, implementing game logic and user interface 
 
 ##### Installation
 
-***Useful Commands*** 
-
+Useful Commands
 - clone the project locally 
 - cd into tic-tac-toe repo
 - $ yarn
